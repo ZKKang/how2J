@@ -1,4 +1,4 @@
-package java.base.variable;
+package javabase.variable;
 
 public class Variable {
 
